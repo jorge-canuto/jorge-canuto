@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Me Chamo Jorge</h1>
 <h3 align="center">Apaixonado por Machine Learning, Deep Learning e Desenvolvimento Mobile</h3>
 
-- 🔭 Atualmente estou trabalhando com **Deep Learning**
+- 🔭 Atualmente estou trabalhando com **Deep Learning e realizando projetos pessoais em Desenvolvimento Mobile**
 
-- 🌱 Atualmente estou estudando **Python e Deep Learning**
+- 🌱 Atualmente estou estudando **Python, Deep Learning e Desenvolvimento Mobile com Flutter**
 
-- 💬 Me pergunte sobre **Python, Machine Learning e Deep Learning**
+- 💬 Me pergunte sobre **Machine Learning, Deep Learning e Desenvolvimento Mobile**
 
 - 📫 Me encontre por e-mail **jluiz.481@gmail.com**
 
